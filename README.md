@@ -1,2 +1,2 @@
-# SampleCode_C-
+# SampleCode_C++
 All C++ Programs
